@@ -57,7 +57,4 @@ The dataset used in this project is `layoffs_stagging`, which contains the follo
 4. **Geographical Trends**:
    - [Country X] had the highest number of layoffs, followed by [Country Y].
 
-## How to Use This Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+
